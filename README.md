@@ -2,8 +2,7 @@ SNACK ORDERING AND DELIVERING APP
 
 DESCRIPTION :
 
-              The Snack Ordering App is a comprehensive Android-based application
-designed to make snack shopping fast, simple, and convenient for users. Through a
+              The Snack Ordering App is a comprehensive Android-based application designed to make snack shopping fast, simple, and convenient for users. Through a
 user-friendly interface, customers can explore a diverse selection of snacks, add
 items to their cart, and proceed with secure payments. The app integrates features
 like cart management, allowing users to adjust quantities, remove items, or add
